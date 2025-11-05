@@ -76,7 +76,7 @@
 
 
 #### Prerequisites:
-- Active Deriv account (create one at https://deriv.com if needed)
+- Active Deriv account (create one at [https://deriv.com](https://binarybot.live/register) if needed)
 - Deriv API token with trading permissions
 
 #### Connection Steps:
